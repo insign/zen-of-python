@@ -8,4 +8,4 @@ help:  ## Display this help
 	@echo "I'll never make a help"
 
 minify:
-	minify editme.html > index.html
+	minify index.html > dist/index.html
