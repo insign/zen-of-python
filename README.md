@@ -1,4 +1,5 @@
-# zen-of-python
+Fast links: [1kb.club](https://1kb.club/) [PEP-20](https://t.ly/nLA3) [My Blog](https://helio.me/) [Cloudflare Pages](https://pages.cloudflare.com/)
+# Zen of Python
 The [Zen of Python](https://t.ly/nLA3) in less than 1024 bytes
 
 > Made this specially for the [1kb.club](https://1kb.club)
@@ -6,6 +7,7 @@ The [Zen of Python](https://t.ly/nLA3) in less than 1024 bytes
 
 ## Next Challenge
 - [ ] Make mobile-friendly
+- [ ] Make even small using CF Pages redirects on links
 
 ## Build
 Install [minify](https://github.com/tdewolff/minify) globally, then run `make`
