@@ -3,6 +3,10 @@ The [Zen of Python](https://t.ly/nLA3) in less than 1024 bytes
 
 > Made this specially for the [1kb.club](https://1kb.club)
 
+
+## Next Challenge
+- [ ] Make mobile-friendly
+
 ## Build
 Install [minify](https://github.com/tdewolff/minify) globally, then run `make`
 
