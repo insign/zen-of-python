@@ -8,6 +8,7 @@ The [Zen of Python](https://t.ly/nLA3) in less than 1024 bytes
 ## Next Challenge
 - [ ] Make mobile-friendly
 - [ ] Make even small using CF Pages redirects on links
+- [ ] Make publish fully automated
 
 ## Build
 Install [minify](https://github.com/tdewolff/minify) globally, then run `make`
