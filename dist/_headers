@@ -1,3 +1,4 @@
 /
-  nel: off
-  working: 2
+  nel: 0
+  expect-ct: 0
+  w: 3
