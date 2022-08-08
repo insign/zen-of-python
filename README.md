@@ -1,4 +1,4 @@
-Fast links: [1kb.club](https://1kb.club/) [PEP-20](https://t.ly/nLA3) [My Blog](https://helio.me/) [Cloudflare Pages](https://pages.cloudflare.com/)
+Fast links: [1kb.club](https://1kb.club/) [PEP-20](https://t.ly/nLA3) [My Blog](https://helio.me/) [Cloudflare Pages](https://pages.cloudflare.com)
 # Zen of Python
 The [Zen of Python](https://t.ly/nLA3) in less than 1024 bytes
 
