@@ -1,4 +1,5 @@
 /
   nel: 0
   expect-ct: 0
-  w: 3
+  !access-control-allow-origin
+  w: 4
