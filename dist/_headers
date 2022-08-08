@@ -2,5 +2,6 @@
   nel: 0
   expect-ct: 0
   ! access-control-allow-origin
-  w: 5
+  w: 6
   cache-control: 0
+  referrer-policy: 0
