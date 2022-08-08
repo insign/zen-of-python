@@ -1,9 +1,5 @@
 /
   nel: 0
   expect-ct: 0
-  access-control-allow-origin: 0
-  x-content-type-options: 0
-  w: 8
   cache-control: 0
   referrer-policy: 0
-  vary: 0
