@@ -2,6 +2,7 @@
   nel: 0
   expect-ct: 0
   ! access-control-allow-origin
-  w: 6
+  ! X-Content-Type-Options
+  w: 7
   cache-control: 0
   referrer-policy: 0
