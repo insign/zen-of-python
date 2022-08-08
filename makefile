@@ -8,4 +8,6 @@ help:  ## Display this help
 	@echo "I'll never make a help"
 
 minify:
-	minify index.html > dist/index.html
+	minify -b index.html -o dist/index.html
+dev:
+	minify -wb index.html -o dist/index.html
