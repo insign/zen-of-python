@@ -7,7 +7,7 @@ The [Zen of Python](https://t.ly/nLA3) in less than 1024 bytes
 
 ## Next Challenge
 - [ ] Make mobile-friendly
-- [ ] Make even small using CF Pages redirects on links
+- [x] ~~Make even small using CF Pages redirects on links~~
 - [ ] Make publishing fully automated
 
 ## Build
