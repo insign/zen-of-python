@@ -1,0 +1,10 @@
+{
+  "name": "zen-of-python-1kb",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}

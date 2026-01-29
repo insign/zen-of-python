@@ -8,6 +8,6 @@ help:  ## Display this help
 	@echo "I'll never make a help"
 
 minify:
-	minify -b index.html -o dist/index.html
+	npm install && npm run build
 dev:
-	minify -wb index.html -o dist/index.html
+	npm run build
